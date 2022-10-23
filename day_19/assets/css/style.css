@@ -1,0 +1,31 @@
+p{
+    padding: 0 !important;
+    margin: 0px !important;
+}
+.form-inner{
+    margin-top: 200px;
+}
+
+.form-inner form{
+    padding: 40px 40px;
+    border: 1px solid rgba(128, 128, 128, 0.137);
+    vertical-align: middle;
+}
+nav{
+    background-color: rgb(66, 159, 217);
+}
+nav .nav-link{
+    color:white !important;
+}
+header a.logo h1{
+    font-family: cursive;
+    font-weight: 900;
+    color: white;
+}
+table{
+    margin-top: 200px ;
+}
+td,th{
+    border:1px solid grey;
+    padding: 20px 20px;
+}
